@@ -1,3 +1,5 @@
+# Patched as of September 24th, 2022.
+
 # duolingo-gmail-bomber
 Bomb gmail's using duolingo!
 
